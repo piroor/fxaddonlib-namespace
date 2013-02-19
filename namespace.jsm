@@ -13,9 +13,8 @@
    var func2 = namespace.func2;
 
  license: The MIT License, Copyright (c) 2010 YUKI "Piro" Hiroshi
-   http://github.com/piroor/fxaddonlibs/blob/master/license.txt
  original:
-   http://github.com/piroor/fxaddonlibs/blob/master/namespace.js
+   http://github.com/piroor/fxaddonlib-namespace
 */
 
 var EXPORTED_SYMBOLS = ['getNamespaceFor'];
